@@ -25,11 +25,11 @@ Como Utilizar:
 
 1 - Clone este repositório: 
 
-    ```sh
+```sh
     bash
     Copiar código
     git clone https://github.com/seuusuario/navegaactivites.git
-    ```
+ ```
 
 2 - Abra o projeto no Android Studio.
 
