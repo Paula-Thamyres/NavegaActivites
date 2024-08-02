@@ -1,4 +1,4 @@
-NavegaActivites
+BrowseActivites
 
 NavegaActivites é um projeto Android desenvolvido em Java que demonstra a navegação entre atividades (Activities) e a gestão de estados na arquitetura de uma aplicação móvel. Este projeto é ideal para desenvolvedores que desejam entender e aplicar conceitos fundamentais de navegação e gerenciamento de estado em aplicativos Android.
 Simulação da utilização do app, onde o usuário vai clicando e abrindo as outras activites, com a opção de voltas as activites anteriores
